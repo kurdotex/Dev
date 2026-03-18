@@ -14,7 +14,7 @@
             "description": "Servidor local"
         },
         {
-            "url": "/var/www"
+            "url": "/var/www/html/dev"
         }
     ],
     "paths": {
